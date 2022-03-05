@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @UrJaani
+- 👀 I’m interested in Creativity...
+- 🌱 I’m currently learning my Self...
+- 💞️ I’m looking to collaborate on my Past... 
+
+<!---
+UrJaani/UrJaani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
